@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">URL Shortener</string>
+    <string name="enter_url_label">First, Enter your URL:</string>
+    <string name="shorten_url_button">Shorten URL</string>
+    <string name="alias_button">Choose Alias URL</string>
+    <string name="get_short_url_label">Get your new URL!</string>
+    <string name="url_edittext_hint">Enter URL here</string>
+
+</resources>
