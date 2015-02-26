@@ -6,6 +6,12 @@ import java.util.Date;
 
 import android.util.Log;
 
+/**
+ * Model class for URL attributes.
+ * 
+ * @author SAMEH SHARAF
+ *
+ */
 public class URLModel implements Comparable 
 {
 	private long id;

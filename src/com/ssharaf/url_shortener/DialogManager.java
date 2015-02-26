@@ -4,6 +4,13 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 
+/**
+ * Dialog manager class.
+ * 
+ * @author SAMEH SHARAF
+ *
+ */
+
 public class DialogManager {
 		
 	public DialogManager()

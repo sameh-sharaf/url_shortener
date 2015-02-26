@@ -15,6 +15,14 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Date;
 
+/**
+ * Application's core class which handles URL storing
+ * and shorten algorithm.
+ * 
+ * @author SAMEH SHARAF
+ *
+ */
+
 public class Url_shortenerActivity extends Activity {
     
 	// Debug tag name.

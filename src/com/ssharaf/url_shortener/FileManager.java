@@ -12,6 +12,14 @@ import java.util.ArrayList;
 import android.os.Environment;
 import android.util.Log;
 
+/**
+ * This class is responsible for reading from and writing 
+ * into application's log file.
+ * 
+ * @author SAMEH SHARAF
+ *
+ */
+
 public class FileManager {
 	
 	private String folderPath;
